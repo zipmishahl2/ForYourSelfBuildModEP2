@@ -17,7 +17,7 @@
 | 0.5 | coming soon        |
 | 0.4 | coming soon        |              
 | 0.3 | coming soon        |
-| 0.2 | :white_check_mark: |
+| 0.2 | ❗ update 19.09.2022|
 | 0.1 | :white_check_mark: |
 
 Цели

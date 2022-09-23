@@ -14,11 +14,11 @@
 | Version | Supported          |
 | ------- | ------------------ |
 | 0.6 | coming soon        |
-| 0.5 | :white_check_mark: |
-| 0.4 | :white_check_mark: |              
-| 0.3 | :white_check_mark: |
+| 0.5 | coming soon        |
+| 0.4 | coming soon        |              
+| 0.3 | coming soon        |
 | 0.2 | :white_check_mark: |
-| 0.1 TEST | :x:           |
+| 0.1 | :white_check_mark: |
 
 Цели
 Упрощение управления для ускорения

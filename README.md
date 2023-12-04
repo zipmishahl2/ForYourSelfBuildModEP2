@@ -1,7 +1,7 @@
 # ForYourSelfBuildMod ep2
 23.09.2022 _**НЕ ДОСТУПЕН**_
 
-(СЕЙЧАС ЗАНЯТ МОДОМ HL2:REBOOT, ВЫПУСКАТЬ ОБНОВЛЕНИЯ FORYOURSELFBUILDMOD С 1 ЯНВАРЯ НЕ БУДУ.)
+(СЕЙЧАС ЗАНЯТ МОДОМ HL2:REBOOT, ВЫПУСКАТЬ ОБНОВЛЕНИЯ FORYOURSELFBUILDMOD С 1 ЯНВАРЯ НЕ БУДЕТ.)
 **press F**
 
 
